@@ -1,0 +1,28 @@
+{
+  "name": "react-boiler-plate-2019",
+  "version": "1.0.0",
+  "description": "Boilerplate for creating a modern, isomorphic webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odonnellnoel/react-boiler-plate-2019.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-router",
+    "redux-saga",
+    "isomorphic",
+    "node",
+    "nodejs"
+  ],
+  "author": "Noel O'Donnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odonnellnoel/react-boiler-plate-2019/issues"
+  },
+  "homepage": "https://github.com/odonnellnoel/react-boiler-plate-2019#readme"
+}
