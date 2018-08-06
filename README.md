@@ -1,6 +1,6 @@
 # React Boiler Plate 2019
 
-The ultimate starting point for creating a modern webapp using industry-standard best practices
+The ultimate starting point for creating a modern isomorphic webapp using industry-standard best practices.
 
 ## Philosophy
 
@@ -8,7 +8,15 @@ The ultimate starting point for creating a modern webapp using industry-standard
 
 As a developer you're encouraged to delete what you don't need first, then start building what you do need.
 
+## Quickstart
+
+```
+$ git clone https://github.com/odonnellnoel/react-boiler-plate-2019.git
+$ npm i && npm start
+```
+
 ## Libraries
+
 * View - React
 * Routing - React Router
 * State Management - Redux
@@ -17,3 +25,7 @@ As a developer you're encouraged to delete what you don't need first, then start
 * Server - ExpressJS
 * Immutability - ImmutableJS
 * Building - Webpack
+
+## Licence
+
+MIT
