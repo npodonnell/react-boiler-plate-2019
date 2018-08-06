@@ -1,6 +1,6 @@
 # React Boiler Plate 2019
 
-The ultamite starting point for creating a modern webapp using industry-standard best practices
+The ultimate starting point for creating a modern webapp using industry-standard best practices
 
 ## Philosophy
 
